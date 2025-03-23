@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet, View, Text, Dimensions, ScrollView} from 'react-native';
-import MapView, {Marker} from 'react-native-maps';
+import MapView, {Marker} from '@coldsurfers/react-native-maps';
 
 const {width, height} = Dimensions.get('window');
 

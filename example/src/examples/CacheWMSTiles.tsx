@@ -1,7 +1,7 @@
 import React from 'react';
 import {StyleSheet, View, Text, Dimensions} from 'react-native';
 
-import MapView, {MAP_TYPES, PROVIDER_DEFAULT, WMSTile} from 'react-native-maps';
+import MapView, {MAP_TYPES, PROVIDER_DEFAULT, WMSTile} from '@coldsurfers/react-native-maps';
 
 const {width, height} = Dimensions.get('window');
 

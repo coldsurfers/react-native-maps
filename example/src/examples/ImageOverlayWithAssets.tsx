@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {StyleSheet, View, Dimensions} from 'react-native';
 
-import MapView, {Overlay} from 'react-native-maps';
+import MapView, {Overlay} from '@coldsurfers/react-native-maps';
 import flagPinkImg from './assets/flag-pink.png';
 
 const {width, height} = Dimensions.get('window');

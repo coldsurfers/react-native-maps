@@ -6,7 +6,7 @@ import {
   TouchableOpacity,
   View,
 } from 'react-native';
-import MapView, {Marker} from 'react-native-maps';
+import MapView, {Marker} from '@coldsurfers/react-native-maps';
 import PriceMarker from './PriceMarker';
 
 const {width, height} = Dimensions.get('window');

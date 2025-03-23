@@ -7,7 +7,7 @@ import {
   Dimensions,
 } from 'react-native';
 
-import MapView, {Circle, Polygon, Polyline} from 'react-native-maps';
+import MapView, {Circle, Polygon, Polyline} from '@coldsurfers/react-native-maps';
 
 const {width, height} = Dimensions.get('window');
 

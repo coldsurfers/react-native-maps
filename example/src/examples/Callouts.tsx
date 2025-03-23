@@ -8,7 +8,7 @@ import {
   Alert,
   Platform,
 } from 'react-native';
-import MapView, {Marker, Callout, CalloutSubview} from 'react-native-maps';
+import MapView, {Marker, Callout, CalloutSubview} from '@coldsurfers/react-native-maps';
 import CustomCallout from './CustomCallout';
 
 const {width, height} = Dimensions.get('window');

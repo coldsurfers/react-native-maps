@@ -4,7 +4,7 @@ import MapView, {
   MAP_TYPES,
   PROVIDER_DEFAULT,
   LocalTile,
-} from 'react-native-maps';
+} from '@coldsurfers/react-native-maps';
 
 const {width, height} = Dimensions.get('window');
 

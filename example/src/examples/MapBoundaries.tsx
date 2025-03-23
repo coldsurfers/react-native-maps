@@ -1,7 +1,7 @@
 import React, {useRef, useState} from 'react';
 import {StyleSheet, View, Text, Dimensions} from 'react-native';
 
-import MapView, {BoundingBox} from 'react-native-maps';
+import MapView, {BoundingBox} from '@coldsurfers/react-native-maps';
 
 const {width, height} = Dimensions.get('window');
 

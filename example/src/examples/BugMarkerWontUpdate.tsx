@@ -6,7 +6,7 @@ import {
   Dimensions,
   TouchableOpacity,
 } from 'react-native';
-import MapView from 'react-native-maps';
+import MapView from '@coldsurfers/react-native-maps';
 import MyLocationMapMarker from './MyLocationMapMarker';
 
 const {width, height} = Dimensions.get('window');
