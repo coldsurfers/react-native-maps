@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "react-native-maps": ["./src/index"]
+      "@coldsurfers/react-native-maps": ["./src/index"]
     },
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
