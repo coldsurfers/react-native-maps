@@ -1,7 +1,7 @@
 import React from 'react';
 import {StyleSheet, Dimensions} from 'react-native';
 
-import MapView, {Polyline} from 'react-native-maps';
+import MapView, {Polyline} from '@coldsurfers/react-native-maps';
 
 const {width, height} = Dimensions.get('window');
 

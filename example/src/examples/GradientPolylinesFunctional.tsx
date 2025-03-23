@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import {StyleSheet, Dimensions} from 'react-native';
 
-import MapView, {Polyline, LatLng, Provider} from 'react-native-maps';
+import MapView, {Polyline, LatLng, Provider} from '@coldsurfers/react-native-maps';
 
 const {width, height} = Dimensions.get('window');
 
