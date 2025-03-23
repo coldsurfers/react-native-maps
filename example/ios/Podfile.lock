@@ -1215,7 +1215,7 @@ PODS:
     - React-jsiexecutor
     - React-RCTFBReactNativeSpec
     - ReactCommon/turbomodule/core
-  - react-native-google-maps (0.0.0):
+  - react-native-google-maps (0.0.3):
     - DoubleConversion
     - glog
     - Google-Maps-iOS-Utils (= 6.1.0)
@@ -1238,7 +1238,7 @@ PODS:
     - ReactCommon/turbomodule/bridging
     - ReactCommon/turbomodule/core
     - Yoga
-  - react-native-maps (0.0.0):
+  - react-native-maps (0.0.3):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -1807,7 +1807,8 @@ SPEC CHECKSUMS:
   React-logger: 1935d6e6461e9c8be4c87af56c56a4876021171e
   React-Mapbuffer: 212171f037e3b22e6c2df839aa826806da480b85
   React-microtasksnativemodule: 72564d5469003687d39bfc4efad281df8efc0684
-  react-native-maps: 4c741a54d914a4e35c3f4e9818317a3e951f371d
+  react-native-google-maps: daf10f16ead18f29ca49951da6d69445892ae2a4
+  react-native-maps: 88227e083d1b81223c01ac9ba3b391f2a2ac12c3
   React-nativeconfig: cb207ebba7cafce30657c7ad9f1587a8f32e4564
   React-NativeModulesApple: 82a8bee52df9f5b378195a500f22be3a6ef0f890
   React-perflogger: 8152bab3f0eb4b8751f282f9af7caed2c823a9ea
@@ -1840,6 +1841,6 @@ SPEC CHECKSUMS:
   SocketRocket: d4aabe649be1e368d1318fdf28a022d714d65748
   Yoga: 1fd059161b449018342943b095a6d4e69bcaa719
 
-PODFILE CHECKSUM: 22c3a91a43222dfa7b180278c9f8f84493bfdad6
+PODFILE CHECKSUM: 8a5064bc4c2d91aeaee1e9594da9a1f611f3ea87
 
 COCOAPODS: 1.15.2
