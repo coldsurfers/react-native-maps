@@ -1,11 +1,12 @@
 {
   "name": "@coldsurfers/react-native-maps",
   "description": "React Native Mapview component for iOS + Android",
-  "source": "src/index",
-  "main": "lib/index.js",
+  "source": "src/index.ts",
+  "main": "src/index.ts",
+  "react-native": "src/index.ts",
   "author": "Leland Richardson <leland.m.richardson@gmail.com>",
   "homepage": "https://github.com/coldsurfers/react-native-maps#readme",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "license": "MIT",
   "scripts": {
     "lint": "eslint . --max-warnings 0",
@@ -21,6 +22,7 @@
     "prepack": "node updateCodegenConfig.js"
   },
   "files": [
+    "src",
     "specs",
     "lib",
     "android",
